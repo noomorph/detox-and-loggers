@@ -1,0 +1,28 @@
+{
+  "name": "detox-and-loggers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noomorph/detox-and-loggers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noomorph/detox-and-loggers/issues"
+  },
+  "homepage": "https://github.com/noomorph/detox-and-loggers#readme",
+  "devDependencies": {
+    "jest": "^23.3.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "bunyan": "^2.0.2",
+    "bunyan-debug-stream": "^1.0.8",
+    "fs-extra": "^6.0.1"
+  }
+}
